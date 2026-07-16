@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="health_prediction.gif" alt="Project Demo" width="100%">
+</p>
+
 # 🩺 Skin Disease Multimodal Classifier
 
 A **multimodal deep learning system** that diagnoses skin lesions by fusing **dermoscopic image data** with **patient clinical metadata** (age, sex, lesion localization) — trained on the **HAM10000** dataset. Instead of relying on visual appearance alone, this model mimics real dermatological reasoning by combining what a lesion *looks like* with *who the patient is*, achieving stronger and more clinically-grounded predictions than single-modality approaches.
