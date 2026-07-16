@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="health_prediction.gif" alt="desease-multimodel-demo.gif" width="100%">
+  <img src="desease-multimodel-demo.gif" alt="desease-multimodel-demo.gif" width="100%">
 </p>
 
 # 🩺 Skin Disease Multimodal Classifier
